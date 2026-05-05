@@ -1,0 +1,14 @@
+{
+  "name": "pi-notion-mcp",
+  "private": true,
+  "type": "module",
+  "pi": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.29.0",
+    "typebox": "^1.1.37"
+  }
+}
